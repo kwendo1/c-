@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\bin\Debug\net6.0-windows\C# project Invoice.exe
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\bin\Debug\net6.0-windows\C# project Invoice.deps.json
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\bin\Debug\net6.0-windows\C# project Invoice.runtimeconfig.json
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\bin\Debug\net6.0-windows\C# project Invoice.dll
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\bin\Debug\net6.0-windows\C# project Invoice.pdb
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C__project_Invoice.Form1.resources
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C__project_Invoice.Properties.Resources.resources
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.AssemblyInfo.cs
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.dll
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\refint\C# project Invoice.dll
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.pdb
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\C# project Invoice.genruntimeconfig.cache
+C:\Users\Admin\source\repos\C# project Invoice\C# project Invoice\obj\Debug\net6.0-windows\ref\C# project Invoice.dll
